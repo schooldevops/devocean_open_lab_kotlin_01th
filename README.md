@@ -1,6 +1,8 @@
 # devocean_open_lab_kotlin_01th
 Devocean Open Lab Kotlin 1기
 
+오리엔테이션 장소: [https://meet.google.com/jvw-geqg-wnb](https://meet.google.com/jvw-geqg-wnb)
+
 ## 스터디 개요 
 
 - Kotlin과 SpringBoot를 이용하여 웹 어플리케이션을 개발하는 실전형 스터디를 진행합니다.
@@ -27,6 +29,7 @@ Devocean Open Lab Kotlin 1기
 |[  ]|OpenAPI Specification 작성하기||_|
 |[  ]|OpenAPI Generation 자동화||_|
 |[  ]|Git Branch 전략||_|
+|[  ]|Kotlin Unit Testing||_|
 |[  ]|REST API 개발하기||_|
 |[  ]|테스트 자동화하기||_|
 
