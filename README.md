@@ -7,6 +7,16 @@ Devocean Open Lab Kotlin 1기
 
 - Kotlin과 SpringBoot를 이용하여 웹 어플리케이션을 개발하는 실전형 스터디를 진행합니다.
 
+## 얻게되는 지식
+
+- EventStorming 기법 이해
+- OpenAPI Spec 및 Generator 작성방법
+- Kotlin SpringBoot 이해
+- JPA 이해
+- DockerCompose로 로컬 인프라 생성 및 테스트
+- TDD 방식 이해
+
+
 ## Ground Rule
 
 1. 스터디는 격주로 진행, 시간은 평일 19:00 ~ 21:00에 진행
@@ -17,6 +27,17 @@ Devocean Open Lab Kotlin 1기
 6. 기타 스터디와 관련된 궁금한 점은 오픈 챗방에 남겨주시면 답변 및 공지 업데이트 할 예정입니다. 
 
 ## 스터디 과정 소개 
+
+### 목표 시스템
+
+- OpenAPI 를 작성하면 하나의 API Spec 리포지토리에 등록하고 버젼 관리 및 Validation Check등을 수행하는 시스템을 만든다.
+  - OpenAPI 스펙을 등록/조회/수정/삭제한다.
+  - OpenAPI 프로젝트 단위로 저장관리된다.
+  - OpenAPI 는 검증을 통해서 올바른 형식인지 확인할 수 있어야한다.
+  - OpenAPI 스펙 템플릿을 다운받아 수정할 수 있다.
+  - 스펙 저장은 저장은 GitHub에 저장된다.
+
+### 스터디 과정 
 
 - 스터디는 다음 과정으로 진행될 예정입니다 .
 
