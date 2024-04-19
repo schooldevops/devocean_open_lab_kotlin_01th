@@ -68,7 +68,7 @@ Devocean Open Lab Kotlin 1기
 - 박영훈
 - kchabin: 강다빈
 - 이연주
-- 무지: 안철환
+- 무지: 인철환
 - 마이클: 임선경
 - 박제영
 - 황재현
